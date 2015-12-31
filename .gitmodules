@@ -1,0 +1,6 @@
+[submodule "src/qt/qtbase"]
+	path = src/qt/qtbase
+	url = git@github.com:saturday06/qtbase.git
+[submodule "src/qt/qtwebkit"]
+	path = src/qt/qtwebkit
+	url = git@github.com:saturday06/qtwebkit.git
