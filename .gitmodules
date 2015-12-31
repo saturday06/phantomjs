@@ -4,3 +4,6 @@
 [submodule "src/qt/qtwebkit"]
 	path = src/qt/qtwebkit
 	url = git@github.com:saturday06/qtwebkit.git
+[submodule "src/qt/qtwebengine"]
+	path = src/qt/qtwebengine
+	url = git@github.com:saturday06/qtwebengine.git
